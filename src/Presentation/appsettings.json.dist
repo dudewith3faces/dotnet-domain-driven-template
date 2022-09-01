@@ -1,0 +1,17 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+
+  "AllowedHosts": "*",
+
+  "SwaggerOption": {
+    "ShowSwagger": true,
+    "Title": "Sample API",
+    "Endpoint": "/swagger/v1/swagger.json",
+    "Versions": ["v1"]
+  }
+}

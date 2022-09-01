@@ -1,4 +1,4 @@
-# CrowdBux Server
+# Sample Server
 
 ## About
 
